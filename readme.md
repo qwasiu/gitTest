@@ -1,3 +1,1 @@
-twoja stara
-
-git     
+test onegir log
